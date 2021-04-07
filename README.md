@@ -1,0 +1,2 @@
+# taralatte
+tugas web statis
